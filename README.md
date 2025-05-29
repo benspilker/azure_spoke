@@ -236,7 +236,7 @@ Name | Description | Type | Default
 
 ## Authors
 
-Module is maintained by [Ben Spilker](mailto:bspilker@presidio.com), with help from these [awesome contributors](https://github.com/kumarvna)
+Module is maintained by [Ben Spilker](https://github.com/benspilker/), with help from these [awesome contributors](https://github.com/kumarvna)
 
 Built to work within the CAF Enterprise Scale framework but not using their connectivity resources. (https://github.com/Azure/terraform-azurerm-caf-enterprise-scale)
 
